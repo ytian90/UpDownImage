@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UpDownImage</string>
+    <string-array name="algorithm_names">
+        <item>Edge Detect</item>
+        <item>Face Detect</item>
+        <item>Filters</item>
+        <item>Histogram Equalization</item>
+        <item>Histogram</item>
+    </string-array>
+</resources>
